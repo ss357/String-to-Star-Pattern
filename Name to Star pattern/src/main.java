@@ -605,6 +605,8 @@ public class main {
         main.height = height1;
         for (char c : arr) {
             printPattern(c);
+            System.out.println();
+                
 
         }
     }
